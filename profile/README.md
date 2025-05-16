@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/CreaiDev/.github/assets/your-logo.png" alt="CreaiDev" width="400"/>
-</p>
+
 
 <h1 align="center">Hey there! We're CreaiDev 👋</h1>
 
